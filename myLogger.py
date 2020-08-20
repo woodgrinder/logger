@@ -1,7 +1,9 @@
+#!/usr/bin/python
+
 import logging
 import os
 
-myFile = ".\mylog.log"
+myFile = "mylog.log"
 
 class myMod():
     def __init__(self, logSpec):

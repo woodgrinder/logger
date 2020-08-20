@@ -1,0 +1,21 @@
+2020-08-20 12:44:13,351|doTask:24  |DEBUG   |debug
+2020-08-20 12:44:13,351|doTask:25  |INFO    |info
+2020-08-20 12:44:13,351|doTask:26  |WARNING |warning
+2020-08-20 12:44:13,352|doTask:27  |ERROR   |error
+2020-08-20 12:44:13,352|doTask:28  |CRITICAL|critical
+2020-08-20 12:44:13,353|doTask:29  |CRITICAL|---------------------
+2020-08-20 12:44:13,353|doTask:25  |INFO    |info
+2020-08-20 12:44:13,353|doTask:26  |WARNING |warning
+2020-08-20 12:44:13,354|doTask:27  |ERROR   |error
+2020-08-20 12:44:13,354|doTask:28  |CRITICAL|critical
+2020-08-20 12:44:13,354|doTask:29  |CRITICAL|---------------------
+2020-08-20 12:44:13,354|doTask:26  |WARNING |warning
+2020-08-20 12:44:13,354|doTask:27  |ERROR   |error
+2020-08-20 12:44:13,354|doTask:28  |CRITICAL|critical
+2020-08-20 12:44:13,356|doTask:29  |CRITICAL|---------------------
+2020-08-20 12:44:13,356|doTask:27  |ERROR   |error
+2020-08-20 12:44:13,356|doTask:28  |CRITICAL|critical
+2020-08-20 12:44:13,356|doTask:29  |CRITICAL|---------------------
+2020-08-20 12:44:13,356|doTask:27  |ERROR   |error
+2020-08-20 12:44:13,356|doTask:28  |CRITICAL|critical
+2020-08-20 12:44:13,356|doTask:29  |CRITICAL|---------------------
